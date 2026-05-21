@@ -1,0 +1,3 @@
+module.exports=[27572,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsxs)("html",{lang:"zh-CN",className:"h-full antialiased",children:[(0,b.jsx)("head",{children:(0,b.jsx)("link",{href:"https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap",rel:"stylesheet"})}),(0,b.jsx)("body",{className:"min-h-full",children:a})]})},"metadata",0,{title:"道·心理命理 | 以易经为镜，照见内心",description:"基于心理学和传统文化的命理解读工具——通过易经智慧与心理分析，帮助你看清内心真实的想法"}])},50645,a=>{a.n(a.i(27572))}];
+
+//# sourceMappingURL=src_app_layout_tsx_0fhx__n._.js.map
